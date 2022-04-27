@@ -1,16 +1,1 @@
-# dicoding_flutter_wicat
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![wicat](https://socialify.git.ci/farulwananda/wikipedia_cat/image?description=1&descriptionEditable=Dicoding%20Submission%20App%20for%20Course%20Learn%20to%20Make%20Flutter%20Apps%20for%20Beginners&font=Raleway&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
